@@ -27,7 +27,7 @@ class _SigninpageState extends State<Signinpage> {
         child: Container(
           height: MediaQuery.of(context).size.height,
           width: MediaQuery.of(context).size.width,
-          color: Colors.black,
+          color: Colors.blue,
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
