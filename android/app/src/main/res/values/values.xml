@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="firebase_database_url" translatable="false">https://fir-todo-9f068.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">675472075243</string>
+    <string name="google_api_key" translatable="false">AIzaSyAUeYwNqjj_d5Ugc9U_Gq7lAfi1Nc6on48</string>
+    <string name="google_app_id" translatable="false">1:675472075243:android:8f1570e375c9cbc50f51ae</string>
+    <string name="project_id" translatable="false">fir-todo-9f068</string>
+</resources>
